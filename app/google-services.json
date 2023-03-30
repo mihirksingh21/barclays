@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233252346226",
+    "project_id": "hackathom-bds",
+    "storage_bucket": "hackathom-bds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233252346226:android:f11173be65c3a0da6225eb",
+        "android_client_info": {
+          "package_name": "com.example.barclays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233252346226-a57ci7g3s2a1at9kcdjls26dhhisql3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLVXiDkwmhmDylBZ9nwkk1mRV202AgnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233252346226-a57ci7g3s2a1at9kcdjls26dhhisql3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

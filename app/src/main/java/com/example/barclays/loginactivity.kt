@@ -1,10 +1,7 @@
 package com.example.barclays
-
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Patterns
-import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import com.example.barclays.databinding.ActivityLoginactivityBinding
